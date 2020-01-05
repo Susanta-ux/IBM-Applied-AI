@@ -7,7 +7,7 @@
   <li>Explain the 3 steps to getting started on your AI journey.</li>
 </uo><br>
 
-![Waston_Assitant_4_Key_Principles](https://github.com/Blackdog-Programmer/IBM-Watson/blob/master/reference/Waston_Assitant_4_Key_Principles.png)
+![Waston_Assitant_4_Key_Principles](https://github.com/Blackdog-Programmer/IBM-Applied-AI/blob/master/reference/1-Introduction-to-Artificial-Intelligence/Waston_Assitant_4_Key_Principles.png)
 
 [Watson AI is changing how business is done](https://www.ibm.com/watson/ai-stories/)
 <uo>
