@@ -1,4 +1,4 @@
-# IBM-WATSON WEEK1
+# 1. Introduction to Artificial Intelligence (AI)
 <uo><b>Learning Objectives</b>
   <li>Describe how Watson AI works.</li>
   <li>Describe ways in which Watson helps professionals.</li>
@@ -45,10 +45,16 @@
   <li>Mechanisms for continuous improvement, continuous adoption, and continuous scale.</li>
 </uo>  
 
-# IBM-WATSON WEEK2
+## IBM-WATSON WEEK2
 <uo><b>Learning Objectives</b>
   <li>Describe Watson Assistant.</li>
   <li>Describe Watson Knowledge Services.</li>
   <li>Describe Watson Speech Services.</li>
   <li>Describe Watson Language Services.</li>
 </uo><br>
+
+# 2. Getting Started with AI using IBM Watson
+
+# 3. Building AI Powered Chatbots Without Programming
+
+# 4. Python for Data Science and AI
